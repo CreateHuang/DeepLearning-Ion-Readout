@@ -14,7 +14,7 @@ This repository provides:
 
 ## Model weights
 
-Pretrained seed-1/2/3 model weights are available in the repository root as [`seed123_model_weights.zip`](seed123_model_weights.zip).
+Pretrained seed-1/2/3 model weights are available in [`model_weights/`](model_weights/).
 
 - Details and checksum: [MODEL_WEIGHTS.md](MODEL_WEIGHTS.md)
 - Release mirror: [seed123_model_weights.zip](https://github.com/CreateHuang/DeepLearning-Ion-Readout/releases/download/seed123-weights/seed123_model_weights.zip)

@@ -113,4 +113,7 @@ venv.bak/
 
 # Backup files
 *.bak
-*.bak_*
+*.bak_*!model_weights/
+!model_weights/**/
+!model_weights/**/*.pth
+!model_weights/**/*.csv
