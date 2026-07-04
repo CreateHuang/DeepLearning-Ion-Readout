@@ -14,10 +14,10 @@ This repository provides:
 
 ## Model weights
 
-Pretrained seed-1/2/3 model weights are available in [`model_weights/`](model_weights/).
+Trained model weights are available in [`model_weights/`](model_weights/), including DWNetV2, StandardUNet, ViTSeg, psfanet, and seed123 result folders.
 
 - Details and checksum: [MODEL_WEIGHTS.md](MODEL_WEIGHTS.md)
-- Release mirror: [seed123_model_weights.zip](https://github.com/CreateHuang/DeepLearning-Ion-Readout/releases/download/seed123-weights/seed123_model_weights.zip)
+- Release mirror for seed123: [seed123_model_weights.zip](https://github.com/CreateHuang/DeepLearning-Ion-Readout/releases/download/seed123-weights/seed123_model_weights.zip)
 
 ## Features
 
