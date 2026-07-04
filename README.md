@@ -11,6 +11,14 @@ This repository provides:
 
 ![Example output](MobileUNET_example.png)
 
+
+## Model weights
+
+Pretrained seed-1/2/3 model weights are available as a GitHub Release asset rather than being stored in the repository root.
+
+- Download: [seed123_model_weights.zip](https://github.com/CreateHuang/DeepLearning-Ion-Readout/releases/download/seed123-weights/seed123_model_weights.zip)
+- Details and checksum: [MODEL_WEIGHTS.md](MODEL_WEIGHTS.md)
+
 ## Features
 
 - Binary segmentation of ion readout images
