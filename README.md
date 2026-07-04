@@ -115,14 +115,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{TODO,
-  title   = {TODO: paper title},
-  author  = {TODO: author list},
-  journal = {TODO: journal / conference},
-  year    = {2026},
-  doi     = {TODO: DOI}
-}
-```
+If you use this code in your research, please cite
